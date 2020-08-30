@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ee67839-e848-42f1-8f86-0857fc14e0c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/silince/juc/ThreadOrderAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/ThreadOrderAccess.java" afterDir="false" />
-    </list>
+    <list default="true" id="5ee67839-e848-42f1-8f86-0857fc14e0c3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,8 +133,16 @@
       <option name="presentableId" value="Default" />
       <updated>1598431576919</updated>
       <workItem from="1598431579899" duration="900000" />
-      <workItem from="1598755368676" duration="11706000" />
+      <workItem from="1598755368676" duration="11983000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1598785264850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598785264850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
