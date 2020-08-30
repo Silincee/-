@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ee67839-e848-42f1-8f86-0857fc14e0c3" name="Default Changelist" comment="" />
+    <list default="true" id="5ee67839-e848-42f1-8f86-0857fc14e0c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/silince/juc/ThreadOrderAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/ThreadOrderAccess.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gd5LwFB1fqmPjbezTjCTaa36CB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/silince/juc" />
@@ -41,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadWaitNotifyDemo2">
+  <component name="RunManager" selected="Application.ThreadOrderAccess">
     <configuration name="SaleTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.SaleTicket" />
       <module name="多线程高并发" />
@@ -57,6 +66,19 @@
     </configuration>
     <configuration name="T01_WhatsThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.T01_WhatsThread" />
+      <module name="多线程高并发" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.silince.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadOrderAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.ThreadOrderAccess" />
       <module name="多线程高并发" />
       <extension name="coverage">
         <pattern>
@@ -96,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadOrderAccess" />
         <item itemvalue="Application.ThreadWaitNotifyDemo2" />
         <item itemvalue="Application.ThreadWaitNotifyDemo" />
         <item itemvalue="Application.SaleTicket" />
@@ -114,11 +137,22 @@
       <option name="presentableId" value="Default" />
       <updated>1598431576919</updated>
       <workItem from="1598431579899" duration="900000" />
-      <workItem from="1598755368676" duration="9251000" />
+      <workItem from="1598755368676" duration="11706000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
