@@ -2,7 +2,7 @@ package main.java.com.silince.juc;
 
 /**
  * @program: 多线程高并发
- * @description: lock新特性
+ * @description: lock新特性:精准通知 精准唤醒
  * @author: Silince
  * @create: 2020-08-30 18:06
  **/
@@ -38,6 +38,7 @@ public class ThreadOrderAccess {
                 shareResource.print15();
             }
         }, "C").start();
+
     }
 }
 
@@ -82,7 +83,7 @@ class ShareResource {
             }
             //3 通知
             number = 3;
-            condition3.signal(); // 只唤醒condition2上的一个线程
+            condition3.signal(); // 只唤醒condition3上的一个线程
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
@@ -103,7 +104,7 @@ class ShareResource {
             }
             //3 通知
             number = 1;
-            condition1.signal(); // 只唤醒condition2上的一个线程
+            condition1.signal(); // 只唤醒condition1上的一个线程
         } catch (Exception e) {
             e.printStackTrace();
         } finally {

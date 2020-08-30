@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ee67839-e848-42f1-8f86-0857fc14e0c3" name="Default Changelist" comment="" />
+    <list default="true" id="5ee67839-e848-42f1-8f86-0857fc14e0c3" name="Default Changelist" comment="third commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/Lock8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/silince/juc/ThreadOrderAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/ThreadOrderAccess.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +50,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadOrderAccess">
-    <configuration name="SaleTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.SaleTicket" />
+  <component name="RunManager" selected="Application.Lock8">
+    <configuration name="Lock8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.Lock8" />
       <module name="多线程高并发" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T01_WhatsThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.T01_WhatsThread" />
+    <configuration name="SaleTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.SaleTicket" />
       <module name="多线程高并发" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lock8" />
         <item itemvalue="Application.ThreadOrderAccess" />
         <item itemvalue="Application.ThreadWaitNotifyDemo2" />
         <item itemvalue="Application.ThreadWaitNotifyDemo" />
         <item itemvalue="Application.SaleTicket" />
-        <item itemvalue="Application.T01_WhatsThread" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +137,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598431576919</updated>
       <workItem from="1598431579899" duration="900000" />
-      <workItem from="1598755368676" duration="11983000" />
+      <workItem from="1598755368676" duration="14288000" />
+      <workItem from="1598788067099" duration="700000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1598785264850</created>
@@ -142,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598785264850</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="third commit">
+      <created>1598785360091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598785360091</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +165,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -161,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
