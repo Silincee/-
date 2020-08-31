@@ -1,11 +1,15 @@
 package main.java.com.silince.juc;
 
+
+
+import com.sun.tools.javac.util.StringUtils;
+
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  * @program: 多线程高并发
- * @description: 请举例说明集合类是不安全的
+ * @description: 请举例说明集合类是不安全的 list
  * @author: Silince
  * @create: 2020-08-30 20:48
  **/
@@ -23,6 +27,7 @@ public class NotSafeDemo {
                 System.out.println(list);
             }, String.valueOf(i)).start();
         }
+
 
     }
 }
