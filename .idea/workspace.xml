@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee67839-e848-42f1-8f86-0857fc14e0c3" name="Default Changelist" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/NotSafeDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/NotSafeDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/META-INF/多线程高并发.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/SaleTicket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/SaleTicket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/ShareData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/ShareData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/ShareData2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/ShareData2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/T01_WhatsThread$T1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/T01_WhatsThread$T1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/T01_WhatsThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/T01_WhatsThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/ThreadWaitNotifyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/ThreadWaitNotifyDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/ThreadWaitNotifyDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/ThreadWaitNotifyDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/多线程高并发/main/java/com/silince/juc/Ticket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/silince/juc/NotSafeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/NotSafeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程高并发.iml" beforeDir="false" afterPath="$PROJECT_DIR$/多线程高并发.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/silince/juc/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/CountDownLatchDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CallableDemo">
+  <component name="RunManager" selected="Application.CountDownLatchDemo">
     <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.CallableDemo" />
       <module name="多线程高并发" />
@@ -86,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lock8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.Lock8" />
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.CountDownLatchDemo" />
       <module name="多线程高并发" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountDownLatchDemo" />
         <item itemvalue="Application.CallableDemo" />
         <item itemvalue="Application.NotSafeDemo3" />
         <item itemvalue="Application.NotSafeDemo2" />
         <item itemvalue="Application.NotSafeDemo" />
-        <item itemvalue="Application.Lock8" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +150,7 @@
       <workItem from="1598788067099" duration="5038000" />
       <workItem from="1598849661989" duration="851000" />
       <workItem from="1598877061979" duration="4085000" />
-      <workItem from="1598883064883" duration="1245000" />
+      <workItem from="1598883064883" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1598785264850</created>
