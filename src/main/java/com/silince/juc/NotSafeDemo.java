@@ -1,8 +1,5 @@
-package main.java.com.silince.juc;
+package com.silince.juc;
 
-
-
-import com.sun.tools.javac.util.StringUtils;
 
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
