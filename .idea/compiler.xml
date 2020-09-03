@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="多线程高并发" target="11" />
+      <module name="多线程高并发" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

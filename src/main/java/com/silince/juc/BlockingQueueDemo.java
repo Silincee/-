@@ -1,4 +1,4 @@
-package main.java.com.silince.juc;
+package com.silince.juc;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
