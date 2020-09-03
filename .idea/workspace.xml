@@ -2,46 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee67839-e848-42f1-8f86-0857fc14e0c3" name="Default Changelist" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/disruptor/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/interview/OutputByTurns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/interview/OutputByTurns2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/interview/OutputByTurns3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/interview/OutputByTurns3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/interview/OutputByTurns4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/多线程高并发/META-INF/多线程高并发.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/silince/jol/HelloJol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silince/jol/HelloJolDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/silince/juc/BlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silince/juc/BlockingQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/silince/jol/HelloJol.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/silince/juc/NotSafeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/silince/juc/NotSafeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/BlockingQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/CallableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/CallableDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/CompletableFutureDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/CompletableFutureDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/CountDownLatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/CyclicBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/CyclicBarrierDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ForkJoinDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ForkJoinDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Lock8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Lock8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/MyCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/MyCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/MyTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/MyThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/MyThreadPoolDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/MyThreadPoolDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/MyThreadPoolDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Mythread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Mythread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/NotSafeDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/NotSafeDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/NotSafeDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/NotSafeDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ReadWriteLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ReadWriteLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/SaleTicket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/SaleTicket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/SemaphoreDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ShareData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ShareData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ShareData2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ShareData2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ShareResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ShareResource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/T01_WhatsThread$T1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/T01_WhatsThread$T1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/T01_WhatsThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/T01_WhatsThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/TestTransferValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/TestTransferValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ThreadOrderAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ThreadOrderAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ThreadWaitNotifyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ThreadWaitNotifyDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ThreadWaitNotifyDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/ThreadWaitNotifyDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/com/silince/juc/Ticket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程高并发.iml" beforeDir="false" afterPath="$PROJECT_DIR$/多线程高并发.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/silince/interview/OutputByTurns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silince/interview/OutputByTurns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/silince/interview/OutputByTurns.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/silince/interview/OutputByTurns.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,10 +54,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.silince.interview" />
       <recent name="com.silince.jol" />
       <recent name="main.java.com.silince.juc" />
     </key>
@@ -110,49 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OutputByTurns">
-    <configuration name="BlockingQueueDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.silince.juc.BlockingQueueDemo" />
-      <module name="多线程高并发" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.silince.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.silince.juc.BlockingQueueDemo" />
-      <module name="多线程高并发" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.silince.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloJolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.silince.jol.HelloJolDemo" />
-      <module name="多线程高并发" />
-      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=4000" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.silince.jol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OutputByTurns3_2">
     <configuration name="OutputByTurns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.silince.interview.OutputByTurns" />
       <module name="多线程高并发" />
@@ -166,13 +92,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="MAIN_CLASS_NAME" value="com.silince.disruptor.Test" />
+    <configuration name="OutputByTurns2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.silince.interview.OutputByTurns2" />
       <module name="多线程高并发" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.silince.disruptor.*" />
+          <option name="PATTERN" value="com.silince.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputByTurns3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.silince.interview.OutputByTurns3" />
+      <module name="多线程高并发" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.silince.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputByTurns3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.silince.interview.OutputByTurns3_2" />
+      <module name="多线程高并发" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.silince.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputByTurns4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.silince.interview.OutputByTurns4" />
+      <module name="多线程高并发" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.silince.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloJolDemo" />
-      <item itemvalue="Application.BlockingQueueDemo" />
-      <item itemvalue="Application.BlockingQueueDemo (1)" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.OutputByTurns" />
+      <item itemvalue="Application.OutputByTurns2" />
+      <item itemvalue="Application.OutputByTurns3" />
+      <item itemvalue="Application.OutputByTurns4" />
+      <item itemvalue="Application.OutputByTurns3_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutputByTurns3_2" />
+        <item itemvalue="Application.OutputByTurns3" />
+        <item itemvalue="Application.OutputByTurns2" />
         <item itemvalue="Application.OutputByTurns" />
-        <item itemvalue="Application.HelloJolDemo" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.BlockingQueueDemo (1)" />
-        <item itemvalue="Application.BlockingQueueDemo" />
+        <item itemvalue="Application.OutputByTurns4" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +186,7 @@
       <workItem from="1599018890100" duration="1953000" />
       <workItem from="1599034133176" duration="1846000" />
       <workItem from="1599036556328" duration="45000" />
-      <workItem from="1599036612853" duration="4153000" />
+      <workItem from="1599036612853" duration="13746000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1598785264850</created>

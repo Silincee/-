@@ -9,20 +9,16 @@ import java.util.concurrent.locks.LockSupport;
  * @create: 2020-09-03 10:15
  **/
 public class OutputByTurns {
-    static Thread t1 = null, t2 = null;
+    static Thread t1,t2 = null;
 
     public static void main(String[] args) {
-        char[] aI = "1234567".toCharArray();
-        char[] aC = "ABCDEFG".toCharArray();
-
         int a  = (int) 'a';
-
 
         t1 = new Thread(() -> {
             // method
             for (int i=0;i<26;i++) {
                 System.out.println(i+1);
-                LockSupport.unpark(t2); // 叫醒t2
+                LockSupport.unpark(t2); // 叫醒t2 ⚠️ 可以先唤醒，那么下次的park()就不阻塞；notify()则不行。
                 LockSupport.park(); // t1 阻塞
             }
         }, "t1");
